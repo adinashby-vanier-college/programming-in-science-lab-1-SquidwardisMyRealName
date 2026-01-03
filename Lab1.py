@@ -7,9 +7,9 @@ def hello_world():
 # This function should prompt the user for their name (string), age (int), and height (float),
 # and then print them back in a formatted message.
 def input_output():
-    name = input("Enter Your Name:" )
-    age = int(input("Enter Your Age:" ))
-    height = float(input("Enter Your Height In Meters:" ))
+    name = input("Enter Your Name: ")
+    age = int(input("Enter Your Age: "))
+    height = float(input("Enter Your Height In Meters: "))
 
     print("Hello, " + name + "!")
     print("You are " + str(age) + " years old.")
