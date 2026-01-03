@@ -12,8 +12,8 @@ def input_output():
     height = float(input("Enter Your Height In Meters: "))
 
     print("Hello, " + name + "!")
-    print("You are " + str(age) + "years old.")
-    print("Your height is " + str(height) + "meters.")
+    print("You are " + str(age) + " years old.")
+    print("Your height is " + str(height) + " meters.")
     
 # hello_world()
 # input_output() 
